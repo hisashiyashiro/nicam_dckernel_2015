@@ -1,0 +1,9 @@
+<Apple iMac Retina 5K, Late 2014> Intel Core i7-4790K 4.0GHz, 64GFLOPS/core, Memory bandwidth:12.8GB/s, cache size:8MB
+Execute on 1core
+
+ *** ID=001 : OPRT_diffusion                   T=     0.168 N=      6
+ *** ID=001 : OPRT3D_divdamp                   T=     0.677 N=     14
+ *** ID=001 : ____Horizontal_Adv_flux          T=     0.139 N=      1
+ *** ID=001 : ____Horizontal_Adv_limiter       T=     3.129 N=     30
+ *** ID=001 : ____Vertical_Adv_limiter         T=     1.088 N=     60
+ *** ID=001 : ____vi_rhow_solver               T=     0.303 N=     11

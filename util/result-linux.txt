@@ -1,0 +1,9 @@
+<SGI Altix ICE> Intel Xeon E5-2670v3 2.3GHz, 36.8GFLOPS/core, Memory bandwidth:68GB/s, L2$ size:30MB(Shared)
+Execute on 1core
+
+ *** ID=001 : OPRT_diffusion                   T=     0.260 N=      6
+ *** ID=001 : OPRT3D_divdamp                   T=     1.104 N=     14
+ *** ID=001 : ____Horizontal_Adv_flux          T=     0.160 N=      1
+ *** ID=001 : ____Horizontal_Adv_limiter       T=     4.808 N=     30
+ *** ID=001 : ____Vertical_Adv_limiter         T=     1.564 N=     60
+ *** ID=001 : ____vi_rhow_solver               T=     0.392 N=     11

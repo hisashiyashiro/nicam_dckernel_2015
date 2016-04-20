@@ -1,0 +1,9 @@
+<The K computer> SPARC64 VIIIfx 2.0GHz, 128GFLOPS, Memory bandwidth:64GB/s, L2$ size:6MB(Shared)
+Execute on 1CPU with 8 threads
+
+ *** ID=001 : OPRT_diffusion                   T=     0.400 N=      6
+ *** ID=001 : OPRT3D_divdamp                   T=     1.670 N=     14
+ *** ID=001 : ____Horizontal_Adv_flux          T=     0.190 N=      1
+ *** ID=001 : ____Horizontal_Adv_limiter       T=     4.030 N=     30
+ *** ID=001 : ____Vertical_Adv_limiter         T=     1.220 N=     60
+ *** ID=001 : ____vi_rhow_solver               T=     0.790 N=     11
